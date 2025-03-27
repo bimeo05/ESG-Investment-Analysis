@@ -49,7 +49,39 @@ Our analysis followed a structured four-stage approach:
    - Transformed storyboard into interactive Tableau dashboard
    - Implemented advanced interactive features
    - Enabled dynamic data exploration
+     
+## 💡 Actionable Insights
 
+### Strategic Recommendations
+
+Based on our comprehensive ESG performance analysis, we recommend to **HOLD** and/or **MONITOR** the company's future performance.
+
+1. **ESG Performance vs Financial Reality**
+   - **Strong ESG** metrics **haven't translated to market value** (Important)
+   - **High carbon intensity** remains a concern
+   - Mixed industry ESG-Market Cap relationship indicates **company-specific challenges** ([Monsanto Acquisition](https://www.fiercepharma.com/pharma/worst-deal-ever-bayer-s-market-cap-now-close-to-total-cost-it-paid-for-monsanto))
+     
+2. **Operational Standing of Bayer AG**
+   - Above-average operational metrics but asset utilization needs improvement
+   - **Strong governance** despite declining board independence
+
+### Next Steps
+3. **Financial Health of Bayer AG**
+   - Prioritize **inceasing efficiency in asset utilization**
+   - Consider **strategic divestments**
+
+4. **ESG Focus**
+   - Target **carbon intensity reduction**
+   - Balance board independence while maintaining diversity
+   - Use improved ESG performance to **rebuild stakeholder trust**
+
+### Key Performance Indicators to Monitor
+
+- Environmental Impact Reduction
+- Governance Transparency
+- Sustainability Innovation
+- Long-term Financial Performance
+  
 ## 🚀 Key Deliverables
 
 - Comprehensive Tableau workbook
@@ -83,12 +115,25 @@ Our analysis followed a structured four-stage approach:
 
 ## 📜 License
 
-[Choose an appropriate open-source license, e.g., MIT License]
+This work is licensed under a 
+[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 ## 👥 Contributors
 
-[List team members or contributors]
+[Thuan (Aatos) Pham](https://www.linkedin.com/in/tbimeo/) (Team Lead)
+Julia Sundvall
+[Elias Pakarinen](https://www.linkedin.com/in/elias-pakarinen-8a68192a5/)
+[Bao Phan](https://www.linkedin.com/in/bao-phan-911146339/)
+Milo Sulkimo
 
 ## 🙏 Acknowledgments
 
-Special thanks to the course instructors and the London Stock Exchange Group for providing the ESG dataset.
+Special thanks to [Dr. Philipp Back](https://www.linkedin.com/in/philippback/) for managing the project and LSEG for providing the ESG dataset.
