@@ -1,4 +1,4 @@
-# ESG Performance Comparative Analysis Project
+# ESG Investment Analysis
 ![Screenshot 2025-03-27 at 13 52 58](https://github.com/user-attachments/assets/cfac57ea-25e3-4431-8be4-2ebab45a6cc3)
 
 
