@@ -21,8 +21,10 @@ This project provides a comprehensive analysis of Environmental, Social, and Gov
 Our analysis followed a structured four-stage approach:
 
 1. **Project Planning**
-   - Identified key industry and company
-   - Selected 20 critical variables across ESG dimensions
+   - Defined and selected 9 critical variables across ESG dimensions
+     * Environmental KPIs (3): Renewable Energy, Waste Recycling Ratio, Carbon Intensity
+     * Governance KPIs (2): Board Independence, Board Diversity
+     * Financial KPIs (4): Market Cap, Revenue, ROA, EBIT
    - Developed preliminary research questions
 
 2. **Preliminary Analysis**
@@ -40,7 +42,7 @@ Our analysis followed a structured four-stage approach:
    - Developed narrative structure:
      * Setting and Hook
      * Rising Points
-     * Climactic Insight
+     * Climactic Insight (Aha moment)
      * Resolution
 
 4. **Interactive Data Story**
