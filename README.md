@@ -86,7 +86,7 @@ Based on our comprehensive ESG performance analysis, we recommend to **HOLD** an
 
 - Comprehensive Tableau workbook
 - Detailed analytical report
-- Interactive data story dashboard
+- [Interactive data story dashboard](https://public.tableau.com/views/ESGInvestmentCaseofBayerAGbyAaltoMikkeli/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 💻 Technical Skills Demonstrated
 
@@ -128,11 +128,11 @@ This work is licensed under a
 
 ## 👥 Contributors
 
-[Thuan (Aatos) Pham](https://www.linkedin.com/in/tbimeo/) (Team Lead)
-Julia Sundvall
-[Elias Pakarinen](https://www.linkedin.com/in/elias-pakarinen-8a68192a5/)
-[Bao Phan](https://www.linkedin.com/in/bao-phan-911146339/)
-Milo Sulkimo
+- [Thuan (Aatos) Pham](https://www.linkedin.com/in/tbimeo/) (Team Lead) 
+- Julia Sundvall
+- [Elias Pakarinen](https://www.linkedin.com/in/elias-pakarinen-8a68192a5/)
+- [Bao Phan](https://www.linkedin.com/in/bao-phan-911146339/)
+- Milo Sulkimo
 
 ## 🙏 Acknowledgments
 
