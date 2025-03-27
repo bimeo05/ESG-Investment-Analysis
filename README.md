@@ -56,7 +56,7 @@ Our analysis followed a structured four-stage approach:
 
 ### Strategic Recommendations
 
-Based on our comprehensive ESG performance analysis, we recommend to **HOLD** and/or **MONITOR** the company's future performance.
+**HOLD** and/or **MONITOR** the company's future performance.
 
 1. **ESG Performance vs Financial Reality**
    - **Strong ESG** metrics **haven't translated to market value** (Important)
