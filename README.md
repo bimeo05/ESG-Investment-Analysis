@@ -1,17 +1,92 @@
-# ESG Investment Analysis
+# ESG Performance Comparative Analysis Project
 
-## Business Question
-I and my team assisted the manager to answer a critical business question: 
-"How does the ESG performance of Bayer AG — using both summary KPIs and detailed environmental, social, governance, and financial metrics—compare to competitors and industry benchmarks, and what insights can be drawn about its strengths, weaknesses, and investment potential?"
+## 📊 Project Overview
 
-## Project Process
-We have gone through a 4-stage process to address this question:
-1. Project Plan
-2. Premilinary Analysis & Discovery
-3. Story Board
-4. Interactive Data Story
+This project provides a comprehensive analysis of Environmental, Social, and Governance (ESG) performance for **Bayer AG** within the **pharmaceutical industry**. Leveraging data from the London Stock Exchange Group (LSEG), I led my team of 4 analysts to develope a multi-stage analytical approach to understanding the company's sustainability and investment potential.
 
-## Process in Details
-1. Project Plan
-- Collected ESG data from LSEG
--  
+### 🎯 Project Goals
+
+- Evaluate Bayer AG's ESG performance
+- Compare performance against industry benchmarks
+- Provide actionable insights for sustainable investment decisions
+
+## 🔍 Methodology
+
+### Data Source
+- **Dataset**: LSEG's ESG Performance Dataset
+- **Scope**: Curated subset focusing on environmental, social, and governance metrics
+
+### Analytical Stages
+
+Our analysis followed a structured four-stage approach:
+
+1. **Project Planning**
+   - Identified key industry and company
+   - Selected 20 critical variables across ESG dimensions
+   - Developed preliminary research questions
+
+2. **Preliminary Analysis**
+   - Created initial visualizations in Tableau
+   - Explored data through multiple chart types:
+     * Comparison charts
+     * Trend analysis
+     * Relationship mapping
+     * Distribution analysis
+     * Geographical perspectives
+
+3. **Storyboard Development**
+   - Organized insights using Dykes' Data Storytelling Arc
+   - Refined visualizations
+   - Developed narrative structure:
+     * Setting and Hook
+     * Rising Points
+     * Climactic Insight
+     * Resolution
+
+4. **Interactive Data Story**
+   - Transformed storyboard into interactive Tableau dashboard
+   - Implemented advanced interactive features
+   - Enabled dynamic data exploration
+
+## 🚀 Key Deliverables
+
+- Comprehensive Tableau workbook
+- Detailed analytical report
+- Interactive data story dashboard
+
+## 💻 Technical Skills Demonstrated
+
+- Data visualization
+- Tableau proficiency
+- Statistical analysis
+- Narrative development
+- ESG performance assessment
+
+## ⚠️ Limitations and Considerations
+
+- Dataset represents a snapshot in time
+- Analysis based on available LSEG data
+- Recommendations should be considered alongside other research
+
+## 🔮 Potential Future Work
+
+- Expand analysis to more companies
+- Integrate additional data sources
+- Develop more sophisticated predictive models
+
+## 🛠 Tools and Technologies
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 📜 License
+
+[Choose an appropriate open-source license, e.g., MIT License]
+
+## 👥 Contributors
+
+[List team members or contributors]
+
+## 🙏 Acknowledgments
+
+Special thanks to the course instructors and the London Stock Exchange Group for providing the ESG dataset.
